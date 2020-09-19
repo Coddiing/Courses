@@ -25,4 +25,17 @@
  * git checkout -- index.html
  * 
  * You can also use git reset to reset the staging area to the last commit without disturbing the working directory.
+ * 
+ * git pull --rebase origin master
+ * 
+ *  git push -u origin master
+ * 
+ * git remote add origin <repository URL>
+ * 
+ * git push -u origin master
+ * 
+ * 
+ * git clone <repository URL>
+ * 
+ * npm init
  */
